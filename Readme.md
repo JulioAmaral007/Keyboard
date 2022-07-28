@@ -12,7 +12,7 @@
 
 <h1>Desktop</h1>
 <p align="center">
-  <img alt="" src="Desktop.png" width="100%">
+  <img alt="" src="desktop.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
