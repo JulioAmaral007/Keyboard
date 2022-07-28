@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Proejeto para estudo sobre manipulação do DOM.
+Projeto para estudo sobre manipulação do DOM.
 
 
 ## :memo: Licença
